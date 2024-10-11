@@ -1,0 +1,19 @@
+.rn-portfolio{
+    box-shadow: 10px 7px 20px orange;
+}
+.rn-service{
+    box-shadow: 5px 7px 20px orange;
+}
+.logo-image{
+    
+    width: 100%;
+    height: 90px;
+}
+.main{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+}
+.king{
+  box-shadow: 10px 7px 30px blueviolet;;
+}
